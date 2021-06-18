@@ -1,16 +1,25 @@
-# app_singlechildscrollview
 
-A new Flutter project.
+Projeto desenvolvido no Curso de Flutter - Caio Malheiros 
 
-## Getting Started
+🔥🔥 Curso de Flutter! 🔥🔥
+https://go.hotmart.com/E51580762C
 
-This project is a starting point for a Flutter application.
+## ✨ Tecnologias
 
-A few resources to get you started if this is your first Flutter project:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Projeto
+
+Neste projeto aprendemos como reutilizar widgets :)
+
+
+## 🚀 Como executar
+
+- Clone o repositório
+- Inicie seu app com `flutter run`
+
+Forte abraço galera!
+Tamo junto!
